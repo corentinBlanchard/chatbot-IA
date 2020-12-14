@@ -3,7 +3,7 @@ Charles BEUZET
 Corentin BLANCHARD  
   
   ## Sujet
-  L'objectif de ce projet est de réaliser un chatbot avec lequel on peut intéragir en luiposant certaines questions.  
+  L'objectif de ce projet est de réaliser un chatbot avec lequel on peut intéragir en lui posant certaines questions.  
   Ce bot répondra aux questions sur des sujets du quotidien que l'on retrouve dans cette base de données : https://www.kaggle.com/kausr25/chatterbotenglish  
     
   ## Implémentation
