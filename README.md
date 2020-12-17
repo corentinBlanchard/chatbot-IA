@@ -28,6 +28,8 @@ Corentin BLANCHARD
   - Si nous avions eu 1 mois de plus nous nous serions penchés sur l'utilisation de GloVe qui effectue une vectorisation différente.(basé sur les probabilités)
   
   
+  test
+  
   
   
   
